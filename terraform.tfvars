@@ -1,0 +1,6 @@
+aws_access_key="AKIAIQU5HAQEQGY4YEHA"
+aws_secret_key="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"
+aws_region="us-east-1"
+account_id="887766911020"
+deploy_name="rpaquito"
+max_lines="1000"
